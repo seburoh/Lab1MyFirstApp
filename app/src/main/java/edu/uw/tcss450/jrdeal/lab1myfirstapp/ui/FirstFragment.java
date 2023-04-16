@@ -33,7 +33,6 @@ public class FirstFragment extends Fragment {
     public void onDestroyView() {
         super.onDestroyView();
         mBinding = null;
-        //nin nin
     }
 
     private void processMessage() {
