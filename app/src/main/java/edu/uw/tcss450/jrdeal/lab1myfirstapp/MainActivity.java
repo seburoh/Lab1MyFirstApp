@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onStart() {
         super.onStart();
-        Log.i(TAG,"On Start. Information given.");
+        Log.i(TAG,"On Start. Information given. No information redacted.");
     }
 
     @Override
