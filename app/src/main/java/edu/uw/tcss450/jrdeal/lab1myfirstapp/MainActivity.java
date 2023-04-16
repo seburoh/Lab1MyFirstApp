@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onStop() {
         super.onStop();
-        Log.w(TAG,"Warning, Warning Will Robinson.");
+        Log.w(TAG,"Warning, rabbits on the moon demand carrots or the earth will be destroyed.");
     }
 
     @Override
